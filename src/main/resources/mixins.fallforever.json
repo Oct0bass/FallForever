@@ -1,0 +1,4 @@
+{
+  "package": "rrajagopal.fallforever.mixin",
+  "mixins": ["MixinFallingBlockEntity"]
+}
